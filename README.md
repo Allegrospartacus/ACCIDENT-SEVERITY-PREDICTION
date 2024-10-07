@@ -18,10 +18,10 @@ Feature Engineering: Extracted new features like 'Hour of Day' from the 'Time' c
 
 Categorical Encoding: Used Label Encoding for ordinal features and One-Hot Encoding for nominal features.
 
+Feature Selection: Selected the top 50 features using SelectKBest with chi-squared statistic.
+
 Imbalanced Data Handling: Applied SMOTENC to balance the dataset for better model performance.
 
 Modeling: Trained and evaluated multiple classification models (Random Forest, Logistic Regression, Gradient Boosting, SVM).
-
-Feature Selection: Selected the top 50 features using SelectKBest with chi-squared statistic.
 
 Results: Random Forest achieved the highest performance in terms of accuracy and other classification metrics. Visualized the confusion matrix and feature importance for a better understanding of the model.
