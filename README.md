@@ -6,6 +6,7 @@ Tech Stack:
 Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn (SMOTE)
 
 Models: Random Forest, Logistic Regression, Gradient Boosting, Support Vector Machine
+
 Evaluation: Accuracy, Precision, Recall, F1 Score, Confusion Matrix
 
 
